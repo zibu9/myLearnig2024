@@ -16,4 +16,4 @@ The user guide corresponding to the latest version of the framework can be found
 
 ## Requirement
 
-requirement : php 7.4 or latest version [Requirement](https://codeigniter.com/user_guide/intro/requirements.html)https://codeigniter.com/user_guide/intro/requirements.html
+requirement : php 7.4 or latest version [Requirement](https://codeigniter.com/user_guide/intro/requirements.html)
